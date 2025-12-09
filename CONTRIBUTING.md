@@ -23,8 +23,7 @@ tech-tips/
 ├── linux/
 ├── networking/
 ├── software/
-├── life-hacks/
-└── mobile/
+└── life-hacks/
 ```
 
 ### 3. Ikuti Template
@@ -120,7 +119,7 @@ Lagi butuh kontribusi untuk:
 - [ ] Windows troubleshooting umum
 - [ ] Linux command line basics
 - [ ] Networking untuk pemula
-- [ ] Mobile optimization tips
+
 - [ ] Productivity hacks
 
 ---

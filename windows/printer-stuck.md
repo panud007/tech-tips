@@ -12,6 +12,13 @@ Masalah ini biasanya disebabkan oleh service **Print Spooler** yang error atau h
 
 Solusi paling ampuh adalah **Restart Print Spooler** dan hapus file antrian sementaranya.
 
+## 🚀 Solusi Otomatis (1-Click)
+
+Malas ketik command manual? Gunakan script otomatis ini:
+
+- **[.bat] Download Fix Printer Script** (dari repo `supportkit-script`)
+  [Klik Disini untuk Download](https://github.com/panud007/supportkit-script/blob/main/fix-printer.bat)
+
 ### Cara Cepat (Pakai CMD)
 
 1. Buka **Command Prompt (CMD)** sebagai **Administrator**.

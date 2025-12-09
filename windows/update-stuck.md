@@ -12,6 +12,13 @@
 
 Reset komponen Windows Update. Ini akan menghapus file update yang *corrupt* dan download ulang yang fresh.
 
+## 🚀 Solusi Otomatis (1-Click)
+
+Gunakan script ini untuk reset semua komponen Windows Update otomatis:
+
+- **[.bat] Download Fix Update Script** (dari repo `supportkit-script`)
+  [Klik Disini untuk Download](https://github.com/panud007/supportkit-script/blob/main/fix-update.bat)
+
 ### Cara Cepat (CMD Script)
 
 1. Buka Notepad, copy script di bawah ini.

@@ -12,6 +12,13 @@ Ini penyakit umum Windows 10/11, terutama yang masih pakai **HDD (Hard Disk)** b
 
 Lakukan langkah ini berurutan sampai terasa ringan.
 
+## 🚀 Solusi Otomatis (1-Click)
+
+Gunakan script ini untuk mematikan service SysMain & Telemetry otomatis:
+
+- **[.bat] Download Optimize Windows Script** (dari repo `supportkit-script`)
+  [Klik Disini untuk Download](https://github.com/panud007/supportkit-script/blob/main/optimize-windows.bat)
+
 ### 1. Disable SysMain (Superfetch)
 
 SysMain memuat aplikasi yang sering dipakai ke RAM agar cepat, tapi sering bikin Disk 100% di HDD.

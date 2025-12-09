@@ -13,6 +13,15 @@ WiFi connect, tapi browsing gagal.
 
 ### 1. Flush DNS (Bersihkan Cache)
 
+## 🚀 Solusi Otomatis (1-Click)
+
+Gunakan script ini untuk Flush DNS, Release IP, dan Reset Winsock sekaligus:
+
+- **[.bat] Download Fix Network Script** (dari repo `supportkit-script`)
+  [Klik Disini untuk Download](https://github.com/panud007/supportkit-script/blob/main/fix-network.bat)
+
+### 1. Flush DNS (Manual)
+
 1. Buka CMD (Admin).
 2. Ketik: `ipconfig /flushdns` -> Enter.
 3. Ketik: `ipconfig /release` -> Enter (Internet putus).

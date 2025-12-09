@@ -24,16 +24,12 @@ Tips dan troubleshooting aplikasi populer (browser, office, tools, dll).
 
 Tips produktivitas, shortcuts, dan trik berguna untuk kehidupan sehari-hari.
 
-### 📱 [Mobile](./mobile/)
-
-Troubleshooting smartphone (Android & iOS), tips optimasi, dan solusi masalah umum.
-
 ---
 
 ## 🎯 Cara Menggunakan
 
 1. **Cari berdasarkan kategori** - Pilih folder sesuai jenis masalah
-2. **Gunakan search** - Tekan `Ctrl+F` atau gunakan fitur search GitHub
+2. **Gunakan search** - Tekan `Ctrl+K` (GitHub) atau `Ctrl+F`
 3. **Baca index** - Setiap kategori punya file `INDEX.md` dengan daftar lengkap
 
 ---
@@ -80,7 +76,7 @@ Atau langsung hubungi aku kalau mau nambahin tips! 😊
 ## 📊 Statistik
 
 - **Total Tips**: 0 (baru mulai!)
-- **Kategori**: 6
+- **Kategori**: 5
 - **Kontributor**: 1
 
 ---

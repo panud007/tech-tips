@@ -4,24 +4,13 @@ Tips dan troubleshooting aplikasi populer.
 
 ## 📑 Daftar Tips
 
-### Browser
+### 🔧 Software Essentials
 
-- [Chrome Lemot & Boros RAM](./chrome-slow.md)
-- [Clear Cache & Cookies](./clear-cache.md)
-- [Extension Error](./extension-error.md)
-
-### Office & Productivity
-
-- [Excel File Corrupt](./excel-corrupt.md)
-- [Word Tidak Bisa Save](./word-cant-save.md)
-- [PDF Tidak Bisa Dibuka](./pdf-error.md)
-
-### Development Tools
-
-- [Git Error & Solutions](./git-errors.md)
-- [VS Code Tips & Tricks](./vscode-tips.md)
-- [Node.js Installation Issues](./nodejs-issues.md)
+- [Panduan Lengkap: Browser & Office](./software-essentials.md)
+  - **Browser**: Fix Chrome Lemot, Makan RAM, Cache Error
+  - **Office**: Excel Not Responding, Word Corrupt/Lupa Save
+  - **Tools**: Tips Safe Mode
 
 ---
 
-**Total Tips**: 0 (template - akan diisi)
+**Total Tips**: 1 Comprehensive Guide

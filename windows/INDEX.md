@@ -4,24 +4,27 @@ Kumpulan solusi masalah Windows dan tips optimasi.
 
 ## 📑 Daftar Tips
 
-### Sistem & Performance
+### 🚀 Performance & System
 
-- [Cara Mempercepat Windows yang Lemot](./windows-lemot.md)
-- [Mengatasi Disk Usage 100%](./disk-usage-100.md)
-- [Windows Update Error](./windows-update-error.md)
+- [Mengatasi Disk Usage 100% & Laptop Lemot](./performance-disk-100.md)
+- [Clean Install Windows 10/11](./clean-install-windows.md)
 - [Rollback Windows 11 ke Windows 10](./rollback-win11-to-win10.md)
-- [Clean Install Windows 10/11 (Lengkap)](./clean-install-windows.md)
 
-### Network & Koneksi
+### 🖨️ Printer & Peripheral
 
-- [WiFi Connected tapi No Internet](./wifi-no-internet.md)
-- [Reset Network Settings](./reset-network.md)
+- [Mengatasi Printer Macet / Stuck Queue](./printer-stuck.md)
 
-### Error Messages
+### 🌐 Network & Sharing
 
+- [WiFi Connected tapi No Internet](../networking/wifi-no-internet.md)
+- [Mengatasi Sharing Folder Error / Access Denied](./network-sharing.md)
+
+### 🔧 Fix & Updates
+
+- [Windows Update Error / Stuck](./update-stuck.md)
 - [Blue Screen of Death (BSOD)](./bsod-troubleshooting.md)
 - [DLL File Missing](./dll-missing.md)
 
 ---
 
-**Total Tips**: 0 (template - akan diisi)
+**Total Tips**: 8 Expert Guides

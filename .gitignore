@@ -1,0 +1,23 @@
+# .gitignore for Tech Tips Repository
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary Files
+*.tmp
+*.bak
+*.log
+
+# Personal Notes (jangan commit notes pribadi)
+notes/
+drafts/
+personal/

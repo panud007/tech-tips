@@ -75,7 +75,7 @@ Atau langsung hubungi aku kalau mau nambahin tips! 😊
 
 ## 📊 Statistik
 
-- **Total Tips**: 0 (baru mulai!)
+- **Total Tips**: 9
 - **Kategori**: 5
 - **Kontributor**: 1
 

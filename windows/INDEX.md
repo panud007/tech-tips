@@ -25,6 +25,10 @@ Kumpulan solusi masalah Windows dan tips optimasi.
 - [Blue Screen of Death (BSOD)](./bsod-troubleshooting.md)
 - [DLL File Missing](./dll-missing.md)
 
+### 🔑 Activation & Licensing
+
+- [Windows & Office Activation (Free)](./windows-office-activation.md)
+
 ---
 
-**Total Tips**: 8 Expert Guides
+**Total Tips**: 9 Expert Guides
